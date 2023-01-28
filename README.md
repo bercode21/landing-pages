@@ -1,9 +1,7 @@
-# LANDING-PAHES
+
 
 <div align="center">
   
- 
-
   <h2 align="center">Landing pages HTML Y CSS</h2>
 
  Responsive for all devices, build using HTML, CSS, and JavaScript.
@@ -26,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **stargus** locally, run this command on your git bash:
+To run **landing pages** locally, run this command on your git bash:
 
 Linux and macOS:
 
