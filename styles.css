@@ -28,12 +28,12 @@ header nav {
 
 header nav ul {
     display: flex;
-    gap: 1.8rem;
+    gap: 1.5rem;
 }
 
 li {
     list-style: none;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     color: #081128;
 }
@@ -45,7 +45,7 @@ a {
 
 header button {
     padding: 0.8rem 1.5rem;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     background-color: var(--color-principal);
     color: #fff;

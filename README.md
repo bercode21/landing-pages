@@ -6,7 +6,7 @@
 
  Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://bercode21.github.io/stargus/"><strong>➥ Live Demo</strong></a>
+  <a href="https://bercode21.github.io/landing-pages/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
