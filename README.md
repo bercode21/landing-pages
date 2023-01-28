@@ -31,13 +31,13 @@ To run **stargus** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/bercode21/stargus.git
+sudo git clone https://github.com/bercode21/landing-pages
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/bercode21/stargus.git
+git clone https://github.com/bercode21/landing-pages
 ```
 
 
